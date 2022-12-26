@@ -53,12 +53,14 @@
 
   
 
-  Contact
+  ### Contact
 
   ### Enes Demirci
 
 - [🐦 twitter](https://twitter.com/enesdmc00) 
+  
 - [ ✉️ enesdmc1907@gmail.com]()
+  
 - Linkedin : [https://www.linkedin.com/in/enesdemirci1](https://www.linkedin.com/in/enesdemirci1)
 
 - Project Link: [https://github.com/enesdmc0/react-country-info](https://github.com/enesdmc0/react-tailwind-blog-site)
@@ -67,10 +69,5 @@
 
   
 [product-screenshot]: images/img1.png
-
-[ React ] :https://img.shields.io/badge/-REACT-black
-
-[ Twitter ] : https://twitter.com/enesdmc00
-
-[ Linkedin ] : https://www.linkedin.com/in/enesdemirci1
+  
 
