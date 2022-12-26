@@ -1,70 +1,75 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+<h3 align="center">React Country Info</h3>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
 
-### `npm test`
+### Netlify Link :  [https://country-info-dmc.netlify.app/](https://country-info-dmc.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Blog Site Preview][product-screenshot]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Blog-Preview-About](images/img2.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Blog-preview-Skills](images/img3.png)
 
-### `npm run eject`
+![Blog-Preview-Projects](images/img4.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Blog-Projects-Preview](images/img5.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Built With
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* React
 
-### Analyzing the Bundle Size
+* Javascript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Tailwindcss
 
-### Making a Progressive Web App
+* Ionicons
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* Swiper
 
-### Advanced Configuration
+* Webstorm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  
 
-### Deployment
+  ## Api 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  -
 
-### `npm run build` fails to minify
+  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  Contact
+
+  ### Enes Demirci
+
+- [🐦 twitter](https://twitter.com/enesdmc00) 
+- [ ✉️ enesdmc1907@gmail.com]()
+- Linkedin : [https://www.linkedin.com/in/enesdemirci1](https://www.linkedin.com/in/enesdemirci1)
+
+- Project Link: [https://github.com/enesdmc0/react-country-info](https://github.com/enesdmc0/react-country-info)
+
+  
+
+[product-screenshot]: images/img1.png
+
+[ React ] :https://img.shields.io/badge/-REACT-black
+
+[ Twitter ] : https://twitter.com/enesdmc00
+
+[ Linkedin ] : https://www.linkedin.com/in/enesdemirci1
+
