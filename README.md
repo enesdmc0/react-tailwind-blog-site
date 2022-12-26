@@ -11,7 +11,7 @@
 
 ## About The Project
 
-### Netlify Link :  [https://country-info-dmc.netlify.app/](https://country-info-dmc.netlify.app/)
+### Netlify Link :  [https://country-info-dmc.netlify.app/](https://app.netlify.com/sites/enes-blog-site/settings/domain)
 
 
 
@@ -61,7 +61,7 @@
 - [ ✉️ enesdmc1907@gmail.com]()
 - Linkedin : [https://www.linkedin.com/in/enesdemirci1](https://www.linkedin.com/in/enesdemirci1)
 
-- Project Link: [https://github.com/enesdmc0/react-country-info](https://github.com/enesdmc0/react-country-info)
+- Project Link: [https://github.com/enesdmc0/react-country-info](https://github.com/enesdmc0/react-tailwind-blog-site)
 
   
 
