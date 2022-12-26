@@ -11,7 +11,7 @@
 
 ## About The Project
 
-### Netlify Link :  [https://country-info-dmc.netlify.app/](https://app.netlify.com/sites/enes-blog-site/settings/domain)
+### Netlify Link :  [https://enes-blog-site.netlify.app/](https://enes-blog-site.netlify.app/)
 
 
 
@@ -65,6 +65,7 @@
 
   
 
+  
 [product-screenshot]: images/img1.png
 
 [ React ] :https://img.shields.io/badge/-REACT-black
